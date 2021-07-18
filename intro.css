@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgba(155, 153, 153,.4);
+}
+
+.introduction{
+    /* height: 400px; */
+    width: 100%;
+    /* background-color: hotpink; */
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* height:35px; */
+    width:90%;
+    /* background-color: rgb(230, 230, 21); */
+    color: rgb(37, 13, 13);
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 35px;
+}
